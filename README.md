@@ -28,7 +28,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 ## FLOW CHART
-<img width="353.5" height="512" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
+<img width="253.5" height="412" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
 
 #### Program
@@ -72,11 +72,11 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
-<img width="637" height="401" alt="image" src="https://github.com/user-attachments/assets/fed86a22-182d-486e-833c-3d0a0219cc66" />
+<img width="537" height="301" alt="image" src="https://github.com/user-attachments/assets/fed86a22-182d-486e-833c-3d0a0219cc66" />
 
 
 
-<img width="648" height="390" alt="image" src="https://github.com/user-attachments/assets/5794b89c-bd29-4ed9-bf37-d31047737cbe" />
+<img width="548" height="350" alt="image" src="https://github.com/user-attachments/assets/5794b89c-bd29-4ed9-bf37-d31047737cbe" />
 
 
 
@@ -92,7 +92,7 @@ END
 
 ## FLOWCHART
 
-<img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
+<img  width="253.5" height="412" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
 
 
 #### Program
@@ -110,15 +110,15 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-08-21 at 21 45 38_a3277686](https://github.com/user-attachments/assets/959df3cc-8f6c-4a13-bd68-98e993715702)
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/959df3cc-8f6c-4a13-bd68-98e993715702" />
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="639" height="405" alt="image" src="https://github.com/user-attachments/assets/cb8abd9a-9211-48e1-8e91-4426a7eceee9" />
-<img width="641" height="389" alt="image" src="https://github.com/user-attachments/assets/a08952d5-66ea-4db4-90b8-9cf7a6db0a05" />
+<img width="539" height="305" alt="image" src="https://github.com/user-attachments/assets/cb8abd9a-9211-48e1-8e91-4426a7eceee9" />
+<img width="541" height="359" alt="image" src="https://github.com/user-attachments/assets/a08952d5-66ea-4db4-90b8-9cf7a6db0a05" />
 
 
 ## 3. MULTIPLICATION
@@ -132,7 +132,7 @@ END
 
 ##FLOWCHART
 
-<img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
+<img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
 
 
 
@@ -166,15 +166,14 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-08-21 at 21 58 57_66ae0884](https://github.com/user-attachments/assets/4c53c9f1-33cf-470f-a599-320b9ec2b581)
-
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4c53c9f1-33cf-470f-a599-320b9ec2b581" />
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="641" height="403" alt="image" src="https://github.com/user-attachments/assets/0ee0cc52-932e-4d95-b8ec-2337fff39365" />
-<img width="644" height="402" alt="image" src="https://github.com/user-attachments/assets/d8d3a250-9ad4-4998-84e7-183c00825719" />
+<img width="541" height="303" alt="image" src="https://github.com/user-attachments/assets/0ee0cc52-932e-4d95-b8ec-2337fff39365" />
+<img width="544" height="352" alt="image" src="https://github.com/user-attachments/assets/d8d3a250-9ad4-4998-84e7-183c00825719" />
 
 
 ## 4. DIVISION
@@ -186,7 +185,7 @@ END
 3. Store result.
 
    ## FLOWCHART
-<img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
+<img width="380" height="452" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
 
 
 #### Program
@@ -219,15 +218,15 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-08-21 at 22 06 49_372570e8](https://github.com/user-attachments/assets/23604f67-c214-433d-8f8c-7774d0ee2a85)
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/23604f67-c214-433d-8f8c-7774d0ee2a85" />
 
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
-<img width="639" height="401" alt="image" src="https://github.com/user-attachments/assets/ed90c2c5-2489-49e5-9b96-0710842ebd63" />
+<img width="539" height="351" alt="image" src="https://github.com/user-attachments/assets/ed90c2c5-2489-49e5-9b96-0710842ebd63" />
 
-<img width="644" height="401" alt="image" src="https://github.com/user-attachments/assets/24d10b50-beda-4e1a-b821-70eb8fc19eae" />
+<img width="544" height="351" alt="image" src="https://github.com/user-attachments/assets/24d10b50-beda-4e1a-b821-70eb8fc19eae" />
 
 
 ## RESULT
